@@ -1,0 +1,79 @@
+HTML Tags					Syntax							Usuage
+--------------------------------------------------------------------------------------------------------------------------------------------
+HTML						<html> </html>					- main or root tag of the web page
+
+Head						<head> </head>					- logical part of web page
+
+body                        			<body> </body>    				- To do in web page body / phsical info 
+
+break						<br>						- to break the line
+
+list 						<li> </li> 					- to list items
+
+horizantal					<hr>						- to view line in horizantal
+
+ordered list					<ol> </ol>					- to show lines in ordered list
+
+unordered list 					<ul> </ul>					- to show lines in unordered list
+
+table 						<table> </table>				- to draw table in web page
+
+table header 					<thead> </thead>				- to group header content 
+
+table head 					<th> </th>     					- to write heading in table
+
+table row 					<tr> </tr>					- to write the content in row
+
+table data 					<td> </td>					- to write data in table
+
+input						<input> </input>				- to write input to a form
+
+form 						<form> </form>					- to defines an HTML form for user input
+
+label						<label> </label>				- to defines a label for an <input> element
+
+input						<input> 					- to defines an input control
+
+
+select						<select> </select>				- to defines a drop-down list
+
+option						<option> </option>				- to defines an option in a drop-down list
+
+textarea				    	<textarea>					- to write multi lines in web page
+
+button 						<button> </button>				- to submit the action
+
+text line in diff size     			<h1> </h1> <h2> </h2> 
+						<h3> </h3> <h4> </h4>				- to show headings in different size
+						<h5> </h5> <h6> </h6> 
+
+title						<title> </title>   				- to write title in head
+
+paragraph 					<p> </P> 					- to write paragaph in web page
+
+span						<span> </span>					- to defines a section in a document
+
+division					<div> </div>					- to divide the page
+
+section						<section> </section>				- to defines a section in a document
+
+article						<article> </article>				- to defines an article
+
+header						<header> </header>				- to defines a header for a document
+ 
+footer						<footer> </footer>				- to defines a footer for a document 
+
+italic 						<i> </i>					- to show line in italic
+
+bold & strong 					<b> </b> 					- to show line in bold
+						<strong> </strong> 				- to show line in bold
+
+Audio 				       		<audio> </audio>				- to defines embedded sound content
+
+Video						<video> </video>				- to defines embedded video content
+
+image 						<img   />					- to show image in web
+
+list						<ii> </li>					- to defines the list items
+
+link						<a> </a>					- to define a hyperlink 
