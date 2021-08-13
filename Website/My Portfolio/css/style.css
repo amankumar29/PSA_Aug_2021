@@ -38,25 +38,25 @@ label.logo{
     text-transform: uppercase;
     font-weight: bold;
 }
-a .active, a:hover{
+.navbar a.active, a:hover{
     background-color: rgb(151, 151, 151);
 }
 .detail {
     margin-left: 10%;
-    margin-top: 15%;
+    margin-top: 10%;
 }
 .detail h1{
     font-size: 50px;
     color: black;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     font-family: cursive;
 }
 .detail h1 span{
     color: orange;
 }
 .detail p{
-    color: grey;
-    line-height: 22px;
+    color: rgb(122, 122, 122);
+    line-height: 60px;
 }
 .detail a{
     background-color: blue;
